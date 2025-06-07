@@ -16,16 +16,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,react,nextjs,nodejs,express,tailwind,js,ts,html,css,mysql,mongodb,git,github,linux,aws,vscode" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=princeparjapati&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princeparjapati&theme=radical" width="47%" />
+  <img src="https://skillicons.dev/icons?i=cpp,cmake,react,nextjs,nodejs,express,tailwind,js,html,css,mysql,mongodb,git,github,linux,aws,vscode" />
 </p>
 
 ---
